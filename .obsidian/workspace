@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md",
             "mode": "preview"
           }
         },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md"
               }
             }
           },
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/Untitled.md",
+    "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/kali-linux.md",
+    "EECS/Programming/Systems/Operating Systems/Linux Distribution/System/system.md",
     "README.md",
     "Engineering/Editors/vim/vim cheatsheet.md",
     "EECS/Programming/Systems/Operating Systems/System Components/Networking/NW-CheatSheet.md",
     "Engineering/Editors/vim/vimtutor.md",
     "Engineering/Editors/vim/Untitled.md",
     "Engineering/Editors/vim.md",
-    "Engineering/SWE/SCM/git.md",
-    "Engineering/Quality/DRBFM.md",
-    "EECS/Programming/Systems/Emulation/qemu.md",
-    "EECS/Programming/Systems/Operating Systems/Linux Distribution/System/system.md"
+    "Engineering/SWE/SCM/git.md"
   ]
 }
