@@ -1,3 +1,3 @@
 # Notes
 
-Notes generated with Zettlr for sync across devices
+Notes generated with Obsidian for sync across devices

@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "dd05c39a14f55d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9183812720be28db",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "4b0f84e64e026761"
+      },
+      {
+        "id": "c5837f4e1095a9cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4b0f84e64e026761"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8141478c76ff54e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "374afb7c7f4577ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e985926324dacb76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bde7cc5ded71494",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cheatsheet"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b5ce925e83df670",
+    "type": "split",
+    "children": [
+      {
+        "id": "deca04908f1638df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0d791dc1b26d57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "1893e70d8247068a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "Engineering/Editors/vim/vim cheatsheet.md",
+    "EECS/Programming/Systems/Operating Systems/System Components/Networking/NW-CheatSheet.md",
+    "Engineering/Editors/vim/vimtutor.md",
+    "Engineering/Editors/vim/Untitled.md",
+    "Engineering/Editors/vim.md",
+    "Engineering/SWE/SCM/git.md",
+    "Engineering/Quality/DRBFM.md",
+    "EECS/Programming/Systems/Emulation/qemu.md",
+    "EECS/Programming/Systems/Operating Systems/Linux Distribution/System/system.md"
+  ]
+}
