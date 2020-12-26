@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9183812720be28db",
+        "id": "b3df9bac45fc4a00",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md",
+            "file": "Engineering/SWE/Qt/Qt Advanced.md",
             "mode": "source"
           }
-        },
-        "group": "4b0f84e64e026761"
-      },
-      {
-        "id": "c5837f4e1095a9cb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4b0f84e64e026761"
+        }
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 137
   },
   "right": {
     "id": "6b5ce925e83df670",
@@ -77,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/networking.md"
+                "file": "Engineering/SWE/Qt/Qt Advanced.md"
               }
             }
           },
@@ -97,15 +84,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/Untitled.md",
-    "EECS/Programming/Systems/Operating Systems/Linux Distribution/Distributions/kali-linux.md",
-    "EECS/Programming/Systems/Operating Systems/Linux Distribution/System/system.md",
-    "README.md",
-    "Engineering/Editors/vim/vim cheatsheet.md",
-    "EECS/Programming/Systems/Operating Systems/System Components/Networking/NW-CheatSheet.md",
-    "Engineering/Editors/vim/vimtutor.md",
+    "Engineering/SWE/Qt/Qt Advanced.md",
+    "Engineering/SWE/Qt/Qt Intermediate.md",
+    "Engineering/SWE/Qt/Introduction to Qt.md",
+    "Engineering/SWE/Qt/Untitled.md",
+    "Engineering/Editors/vim/vimdiff.md",
     "Engineering/Editors/vim/Untitled.md",
-    "Engineering/Editors/vim.md",
-    "Engineering/SWE/SCM/git.md"
+    "Engineering/Editors/vim/vim cheatsheet.md",
+    "Engineering/SWE/Yocto/Introduction.md",
+    "Engineering/SWE/Yocto/Untitled.md",
+    "Projects/Project Ideas.md"
   ]
 }
