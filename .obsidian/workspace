@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b3df9bac45fc4a00",
+        "id": "27c5950c4be9c724",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Engineering/SWE/Qt/Qt Advanced.md",
+            "file": "Engineering/Editors/vim/vimdiff.md",
             "mode": "source"
           }
         }
@@ -40,15 +40,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cheatsheet"
+                "query": "vimdi"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 137
+    "width": 201
   },
   "right": {
     "id": "6b5ce925e83df670",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/SWE/Qt/Qt Advanced.md"
+                "file": "Engineering/Editors/vim/vimdiff.md"
               }
             }
           },
@@ -84,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Engineering/SWE/Qt/Qt Advanced.md",
-    "Engineering/SWE/Qt/Qt Intermediate.md",
-    "Engineering/SWE/Qt/Introduction to Qt.md",
-    "Engineering/SWE/Qt/Untitled.md",
     "Engineering/Editors/vim/vimdiff.md",
-    "Engineering/Editors/vim/Untitled.md",
-    "Engineering/Editors/vim/vim cheatsheet.md",
+    "Projects/Project Ideas.md",
+    "Projects/CUP/Arch Drivers.md",
+    "Engineering/Teams/Recruitment.md",
+    "EECS/Programming/Languages/Web/CSS.md",
+    "EECS/Programming/Languages/Web/HTML.md",
+    "EECS/Programming/Systems/Operating Systems/System Components/Security/openssl.md",
+    "EECS/Programming/Languages/Web/Untitled.md",
     "Engineering/SWE/Yocto/Introduction.md",
-    "Engineering/SWE/Yocto/Untitled.md",
-    "Projects/Project Ideas.md"
+    "Books/Software Engineering/Pragmatic Programmer.md"
   ]
 }
